@@ -3,9 +3,9 @@ Welcome to my page. I am a student and staff member at the University of New Sou
 If you are interested in viewing work done by me, first look at my pinned 
 repositories, 
 
-and for completed projects I recommend my [Website](https://micl.dev/projects) 
+and for completed projects I recommend my [Website](https://micl.dev/projects) or my [Hackaday Page](https://hackaday.io/) instead. 
 
-or my [Hackaday Page](https://hackaday.io/) instead. Blog is on my website and Hackaday.
+Blog articles is on my website and Hackaday, as are many PCB Designs I am/have worked on.
 
 ### Languages/Development Environments
 
