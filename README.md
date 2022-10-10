@@ -24,7 +24,8 @@ Welcome to my page. I am a student and staff member at the University of New Sou
 
  </details> 
  <details><summary> Focus Area's For 2022 </summary> 
-  
+
+>- Electronic Components Storage/Organisation System (Few attempts made, T.B.A)
 >- RP2040 based Microcontroller systems ([RP2040 Die Explorer](https://micl.dev/projects/rp2040_explorer), [RP2040 Distributed Computer](https://micl.dev/projects/rp2040_parallel_cpu))
 >- Image Sensors for Robotics (Not started)
 >- Planetary Surface Robotics ([uRos over CAN on RP2040's](https://micl.dev/projects/rp2040_urosovercan), [Offworld Robotic, UNSW](https://micl.dev/projects/OWR))
