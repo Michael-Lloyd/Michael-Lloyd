@@ -1,6 +1,6 @@
 Welcome to my page. I am a student and staff member at the University of New South Wales.
 
-<details><summary> Where to find my stuff </summary> 
+<details><summary> <b>Where to find my stuff</b> </summary> 
   
 >If you are interested in viewing work done by me, first look at my pinned 
 .repositories, and for completed projects I recommend my [Website](https://micl.dev/projects) or my [Hackaday Page](https://hackaday.io/) instead. 
@@ -9,7 +9,7 @@ Welcome to my page. I am a student and staff member at the University of New Sou
 >I do not respond to emails.
   
 </details>
-<details><summary> Languages/Development Preferences </summary> 
+<details><summary> <b>Languages/Development Preferences</b> </summary> 
 
 >My work will rarely be focused on one language, so these are only
 >what I am currently working with.
@@ -23,7 +23,7 @@ Welcome to my page. I am a student and staff member at the University of New Sou
 >- **Numerical Solvers**: Mathematica 13
 
  </details> 
- <details><summary> Focus Area's For 2022 </summary> 
+ <details><summary> <b>Focus Area's For 2022</b> </summary> 
 
 >- Electronic Components Storage/Organisation System (Few attempts made, T.B.A)
 >- RP2040 based Microcontroller systems ([RP2040 Die Explorer](https://micl.dev/projects/rp2040_explorer), [RP2040 Distributed Computer](https://micl.dev/projects/rp2040_parallel_cpu))
@@ -32,4 +32,14 @@ Welcome to my page. I am a student and staff member at the University of New Sou
 >- PCB manufacturing and design specification ([CircuitCompass](https://micl.dev/projects/circuit-compass))
 >- Human Interface Devices (See [The PicoGamePad](https://github.com/Michael-Lloyd/PicoGamePad) and [Keyboard](https://micl.dev/projects/keyboard))
 </details> 
+
+
+<sub> 
+<hr>
+
+Sydney, Kangaroo Island
+
+:earth_asia: 33.8688, 151.2093
+
+</sub> 
 
