@@ -18,6 +18,7 @@ what I am currently working with.
 ### Focus Area's For 2022
 
 - RP2040 based Microcontroller systems ([RP2040 Die Explorer](https://micl.dev/projects/rp2040_explorer), [RP2040 Distributed Computer](https://micl.dev/projects/rp2040_parallel_cpu))
+- Image Sensors for Robotics (T.B.A)
 - Planetary Surface Robotics (See the project I lead [Offworld Robotic, UNSW](https://micl.dev/projects/OWR))
 - PCB manufacturing and design specification ([CircuitCompass](https://micl.dev/projects/circuit-compass))
 - Human Interface Devices (See [The PicoGamePad](https://github.com/Michael-Lloyd/PicoGamePad) and [Keyboard](https://micl.dev/projects/keyboard))
