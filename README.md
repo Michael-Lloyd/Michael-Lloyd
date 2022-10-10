@@ -37,7 +37,7 @@ Welcome to my page. I am a student and staff member at the University of New Sou
 <sub> 
 <hr>
 
-Sydney, Kangaroo Island
+Sydney, New Holland
 
 :earth_asia: 33.8688, 151.2093
 
