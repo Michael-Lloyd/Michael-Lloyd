@@ -26,7 +26,7 @@ Sometimes, I work on research projects. I can't show most of that work :)
 
  </details> 
  <details><summary> <b>Focus Area's For 2023-Q1</b> </summary> 
->- Human Interface Devices (See [The PicoGamePad](https://github.com/Michael-Lloyd/PicoGamePad) and [Keyboard](https://micl.dev/projects/keyboard))
+>- **Human Interface Devices** (See [The PicoGamePad](https://github.com/Michael-Lloyd/PicoGamePad) and [Keyboard](https://micl.dev/projects/keyboard))
 </details> 
 
 
