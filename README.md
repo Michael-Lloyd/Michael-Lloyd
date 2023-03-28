@@ -1,5 +1,7 @@
 Welcome to my page. I am a student and staff member at the University of New South Wales.
 
+Sometimes, I work on research projects. I can't show most of that work :)
+
 <details><summary> <b>Where to find my stuff</b> </summary> 
   
 >If you are interested in viewing work done by me, first look at my pinned 
