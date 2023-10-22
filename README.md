@@ -1,6 +1,6 @@
 Welcome to my page. I am a student and staff member at the University of New South Wales.
 
-Sometimes, I work on research projects. I can't show most of that work :)
+I'm currently on hiatus, recovering from an illness. Check back later if you want to see more recent work.
 
 <details><summary> <b>Where to find my stuff</b> </summary> 
   
@@ -25,12 +25,7 @@ Sometimes, I work on research projects. I can't show most of that work :)
 >- **Numerical Solvers**: Mathematica 13
 
  </details> 
- <details><summary> <b>Focus Area's For 2023-Q1</b> </summary> 
 
->- **Human Interface Devices** (See [The PicoGamePad](https://github.com/Michael-Lloyd/PicoGamePad) and [Keyboard](https://micl.dev/projects/keyboard))
->- **Versatile Shell** [Repository](https://github.com/open-linuxyz/vex-shell)
-
-</details> 
 
 
 <sub> 
