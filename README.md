@@ -5,13 +5,15 @@ My Github was cleaned up recently, but some projects you may want to check out a
 <details>
   <summary><b>micl-arm-os (64-bit ARM kernel) </b></summary>
 A custom, from-scratch, 64-bit ARM kernel. Loosely inspired by FreeBSD, it's a proper 
-higher-half kernel that is designed to run on most ARMv8 devices. 
+higher-half kernel that is designed to run on most ARMv8 devices. It's currently my main 
+  project, and is not finished.
 </details>
 
 <details>
   <summary><b>click-and-collect-intll</b></summary>
 The original click-and-collect is an interactive theorem prover for linear logic. I modified 
-    it in my form to support a variant of linear logic called "intuitionistic linear logic". 
+    it to support a variant of linear logic called "intuitionistic linear logic". This required 
+    adding several thousands of lines of functional code. It's still a WIP for some features.
 </details>
 
 <details>
