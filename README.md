@@ -3,7 +3,7 @@ Hello, I'm Michael Lloyd. I was a student and worked at the University of New So
 My Github was cleaned up recently, but some projects you may want to check out are: 
 
 <details>
-  <summary><b>micl-arm-os (64-bit ARM kernel) </b></summary>
+  <summary><b>proto-kernel (64-bit ARM/RISC-V kernel, formerly micl-arm-os) </b></summary>
 A custom, from-scratch, 64-bit ARM kernel. Loosely inspired by FreeBSD, it's a proper 
 higher-half kernel that is designed to run on most ARMv8 devices. It's currently my main 
   project, and is not finished.
