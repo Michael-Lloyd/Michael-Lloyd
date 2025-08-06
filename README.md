@@ -4,8 +4,8 @@ My Github was cleaned up recently, but some projects you may want to check out a
 
 <details>
   <summary><b>proto-kernel (64-bit ARM/RISC-V kernel, formerly micl-arm-os) </b></summary>
-A custom, from-scratch, 64-bit ARM kernel. Loosely inspired by FreeBSD, it's a proper 
-higher-half kernel that is designed to run on most ARMv8 devices. It's currently my main 
+A custom, from-scratch, 64-bit experimental kernel. Loosely inspired by Linux and FreeBSD, it's a proper 
+higher-half kernel that is designed to run on ARMv8 and some RISC-V devices. It's currently my main 
   project, and is not finished.
 </details>
 
