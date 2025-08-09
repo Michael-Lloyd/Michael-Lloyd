@@ -23,7 +23,7 @@ The original click-and-collect is an interactive theorem prover for linear logic
 </details>
     
 <details>
-  <summary><b>micromod_teensy_badapple</b></summary>
+  <summary><b>micromod-teensy-badapple</b></summary>
   This project plays "Bad Apple!!" on a Teensy microcontroller variant, at 30-35 FPS. This was 
   actually required some interesting steps, like encoding the video data into a custom format with
   RLE encoding. Generally, microcontrollers aren't meant to play videos like this. You can see a 
