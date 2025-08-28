@@ -4,7 +4,7 @@ Some projects you may want to check out are:
 
 <details>
   <summary><b>ProtoKernel (64-bit ARM/RISC-V) </b></summary>
-A custom, from-scratch, 64-bit experimental kernel. Loosely inspired by Linux and FreeBSD, it's a proper 
+A custom, from-scratch, 64-bit experimental kernel. Inspired by Linux and FreeBSD, it's a proper 
 higher-half kernel that is designed to run on ARMv8 and some RISC-V devices. It's currently my main 
   project. 
 </details>
