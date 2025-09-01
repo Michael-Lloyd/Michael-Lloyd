@@ -1,6 +1,6 @@
 Hello, I'm Michael Lloyd. I was a student and worked at the University of New South Wales. 
 
-Some projects you may want to check out are: 
+Some of my projects you may want to check out are: 
 
 <details>
   <summary><b>ProtoKernel (64-bit ARM/RISC-V) </b></summary>
