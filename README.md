@@ -1,4 +1,4 @@
-Hello, I'm Michael Lloyd. I was a student and worked at the University of New South Wales. 
+Hello, I'm Michael Lloyd. I am a student and work at the University of New South Wales. 
 
 Some of my projects you may want to check out are: 
 
