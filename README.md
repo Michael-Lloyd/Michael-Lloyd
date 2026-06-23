@@ -9,10 +9,9 @@ higher-half kernel that is designed to run on ARMv8 and some RISC-V devices. It'
 </details>
 
 <details>
-  <summary><b>click-and-collect-intll</b></summary>
-The original click-and-collect is an interactive theorem prover for linear logic. I modified 
-    it to support a variant of linear logic called "intuitionistic linear logic". This required 
-    adding several thousands of lines of functional code. It's still a WIP for some features.
+  <summary><b>Framework 13 Touchpad USB Bridge</b></summary>
+  I designed some electronics for taking a Framework 13 touchpad module and bridging it to USB. Pretty
+  simple firmware shim, but useful as a design. 
 </details>
 
 <details>
